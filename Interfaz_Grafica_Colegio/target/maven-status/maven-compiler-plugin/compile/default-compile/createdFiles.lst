@@ -1,0 +1,7 @@
+com\mycompany\interfaz_grafica_colegio\Interfaz_Grafica_Colegio.class
+com\mycompany\interfaz_grafica_colegio\Estudiante.class
+com\mycompany\interfaz_grafica_colegio\Curso.class
+com\mycompany\interfaz_grafica_colegio\Profesor.class
+com\mycompany\interfaz_grafica_colegio\Asignatura.class
+com\mycompany\interfaz_grafica_colegio\Evaluacion.class
+com\mycompany\interfaz_grafica_colegio\Horario.class
